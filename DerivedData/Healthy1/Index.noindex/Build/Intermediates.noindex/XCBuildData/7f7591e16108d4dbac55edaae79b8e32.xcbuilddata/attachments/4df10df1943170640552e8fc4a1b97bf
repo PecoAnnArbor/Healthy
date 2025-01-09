@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-maccatalyst/Healthy1Tests.build/Objects-normal/arm64/Healthy1Tests-master.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-maccatalyst/Healthy1Tests.build/Objects-normal/arm64/Healthy1Tests-master.dia",
+    "emit-module-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-maccatalyst/Healthy1Tests.build/Objects-normal/arm64/Healthy1Tests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-maccatalyst/Healthy1Tests.build/Objects-normal/arm64/Healthy1Tests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-maccatalyst/Healthy1Tests.build/Objects-normal/arm64/Healthy1Tests-master.swiftdeps"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1Tests/Healthy1Tests.swift" : {
+
+  }
+}

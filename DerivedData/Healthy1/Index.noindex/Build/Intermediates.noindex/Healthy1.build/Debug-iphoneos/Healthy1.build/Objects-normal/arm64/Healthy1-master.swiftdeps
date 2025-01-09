@@ -1,0 +1,14 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "570686e902ae6a47afd82f75ce90065b690ffe4a80e7991ab8cf212ab4a2fb91"
+build_start_time: [1727578677, 559454000]
+build_end_time: [1727578678, 157678000]
+inputs:
+  ? "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphoneos/Healthy1.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1727566720, 366256692]
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/ContentView.swift": [1727578345, 525396272]
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/FileManager.swift": [1727578014, 424544219]
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/Healthy1App.swift": [1727551814, 236716436]
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/ImagePicker.swift": [1727565759, 573673908]
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/InputDetails.swift": [1727578205, 835668000]
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/MedicineListView.swift": [1727578014, 443611680]
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/ToJson.swift": [1727556053, 309894439]

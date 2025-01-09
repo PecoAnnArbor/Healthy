@@ -1,0 +1,33 @@
+{
+  "" : {
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1-master.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1-master.dia",
+    "emit-module-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1-master.swiftdeps"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/ContentView.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/FileManager.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/Healthy1App.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/ImagePicker.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/InputDetails.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/MedicineListView.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/ToJson.swift" : {
+
+  }
+}

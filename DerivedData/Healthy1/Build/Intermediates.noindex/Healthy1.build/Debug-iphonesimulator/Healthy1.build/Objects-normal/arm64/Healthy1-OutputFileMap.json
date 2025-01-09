@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1-master.dia",
+    "emit-module-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1-master.swiftdeps"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/ContentView.swift" : {
+    "const-values" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/Healthy1App.swift" : {
+    "const-values" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1App.swiftconstvalues",
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1App.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1App.dia",
+    "index-unit-output-path" : "/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1App.o",
+    "llvm-bc" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1App.bc",
+    "object" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1App.o",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1App.swiftdeps",
+    "swiftmodule" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/Healthy1App~partial.swiftmodule"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/ImagePicker.swift" : {
+    "const-values" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ImagePicker.swiftconstvalues",
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ImagePicker.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ImagePicker.dia",
+    "index-unit-output-path" : "/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ImagePicker.o",
+    "llvm-bc" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ImagePicker.bc",
+    "object" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ImagePicker.o",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ImagePicker.swiftdeps",
+    "swiftmodule" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ImagePicker~partial.swiftmodule"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/InputDetails.swift" : {
+    "const-values" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/InputDetails.swiftconstvalues",
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/InputDetails.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/InputDetails.dia",
+    "index-unit-output-path" : "/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/InputDetails.o",
+    "llvm-bc" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/InputDetails.bc",
+    "object" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/InputDetails.o",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/InputDetails.swiftdeps",
+    "swiftmodule" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/InputDetails~partial.swiftmodule"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/ToJson.swift" : {
+    "const-values" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ToJson.swiftconstvalues",
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ToJson.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ToJson.dia",
+    "index-unit-output-path" : "/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ToJson.o",
+    "llvm-bc" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ToJson.bc",
+    "object" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ToJson.o",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ToJson.swiftdeps",
+    "swiftmodule" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1.build/Objects-normal/arm64/ToJson~partial.swiftmodule"
+  }
+}

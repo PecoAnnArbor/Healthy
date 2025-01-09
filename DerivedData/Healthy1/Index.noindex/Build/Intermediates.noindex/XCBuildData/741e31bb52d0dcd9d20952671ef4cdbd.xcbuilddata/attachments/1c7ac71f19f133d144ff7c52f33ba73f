@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1UITests.build/Objects-normal/arm64/Healthy1UITests-master.d",
+    "diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1UITests.build/Objects-normal/arm64/Healthy1UITests-master.dia",
+    "emit-module-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1UITests.build/Objects-normal/arm64/Healthy1UITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1UITests.build/Objects-normal/arm64/Healthy1UITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/DerivedData/Healthy1/Index.noindex/Build/Intermediates.noindex/Healthy1.build/Debug-iphonesimulator/Healthy1UITests.build/Objects-normal/arm64/Healthy1UITests-master.swiftdeps"
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1UITests/Healthy1UITests.swift" : {
+
+  },
+  "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1UITests/Healthy1UITestsLaunchTests.swift" : {
+
+  }
+}

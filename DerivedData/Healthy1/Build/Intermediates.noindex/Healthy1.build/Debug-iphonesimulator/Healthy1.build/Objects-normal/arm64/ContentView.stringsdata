@@ -1,0 +1,32 @@
+{
+  "source": "/Users/ianzhang/Desktop/Personal Coding Projects/Healthy1/Healthy1/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "View Result",
+        "location": {
+          "startingColumn": 71,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Scan Result",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recognized Text:",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 125
+        }
+      }
+    ]
+  },
+  "version": 1
+}
